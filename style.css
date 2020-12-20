@@ -1,0 +1,24 @@
+textarea{
+    display: block;
+    margin: 2rem Auto;
+    width:50%;
+    height:3rem;
+    border-radius: 0.5rem;
+}
+h1 {
+    text-align: center;
+}
+button{
+     display: block;
+     margin: 2rem Auto;
+     padding: 1rem;
+     border-radius: 0.8px;
+}
+#output {
+    border:  0.1rem solid black;
+    display: block;
+    margin: 2rem auto;
+    width: 50%;
+    height: 3rem; 
+    border-radius: 0.5rem;
+}
